@@ -1,0 +1,13 @@
+.ms-header{
+    background-color: var(--ms-color-bg-tertiary);
+}
+
+.ms-header-title{
+    padding: 30px 160px;
+}
+
+.ms-header-title h1{
+    color: var(--ms-color-font-primary);
+    font-weight: bold;
+    font-size: 20px;
+}
