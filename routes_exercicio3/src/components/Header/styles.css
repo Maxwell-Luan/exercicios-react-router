@@ -1,0 +1,33 @@
+.ms-header{
+    background-color: var(--ms-color-bg-tertiary);
+}
+
+.ms-header-content{
+    height: 80px;
+    margin: 0 auto;
+    max-width: 960px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.ms-header-content h1{
+    color: var(--ms-color-font-primary);
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.ms-nav-menu{
+    display: flex;
+    justify-content: space-between;
+    gap: 20px;
+}
+
+.ms-nav-menu p{
+    font-size: 14px;
+    color: var(--ms-color-font-primary);
+}
+
+.ms-active-menu{
+    font-weight: bold;
+}
