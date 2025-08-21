@@ -1,0 +1,16 @@
+.ms-area{
+    background-color: var(--ms-color-bg-secundary);
+    height: 200px;
+    border-radius: 6px;
+    max-width: 960px;
+}
+
+.ms-area-content{
+    padding: 15px 0 0 15px;
+}
+
+.ms-area-content p{
+    color: var(--ms-color-font-secundary);
+    font-weight: bold;
+    font-size: 20px;
+}
