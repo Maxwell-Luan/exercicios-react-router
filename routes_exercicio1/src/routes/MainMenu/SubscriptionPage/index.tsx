@@ -9,7 +9,7 @@ export default function SubscriptionPage() {
   return (
     <main id="ms-page-container">
       <TextArea description={textAreaDescription} />
-      <Link to="/home-page">
+      <Link to="/promotion-page">
       <Button description={buttonDescription} />
       </Link>
       
